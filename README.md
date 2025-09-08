@@ -10,7 +10,6 @@ Protected Routes (only logged-in users can write/edit posts)
 Responsive UI with modern design
 
 🛠️ Tech Stack
-
 Frontend: React, TailwindCSS
 Backend & Services: Appwrite (Authentication, Database, Storage)
 State Management: Context API / Redux (optional)
