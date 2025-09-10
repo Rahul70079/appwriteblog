@@ -23,6 +23,7 @@ State Management: Context API / Redux (optional)
 # Clone the repository
 
 git clone https://github.com/Rahul70079/appwriteblog
+
 # Navigate to project folder
 cd appwrite-blog
 # Install dependencies
