@@ -26,8 +26,10 @@ git clone https://github.com/Rahul70079/appwriteblog
 
 # Navigate to project folder
 cd appwrite-blog
+
 # Install dependencies
 npm install
+
 # Run the development server
 npm run dev
 
