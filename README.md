@@ -1,7 +1,8 @@
+
+
 📝 Appwrite Blog
 
 A simple Blog Application built with React + Appwrite for authentication, database, and file storage.
-
 
 🚀Features
 User Authentication (Login / Signup)
@@ -10,8 +11,8 @@ Image Upload with Appwrite Storage
 Protected Routes (only logged-in users can write/edit posts)
 Responsive UI with modern design
 
-🛠️ Tech Stack
 
+🛠️ Tech Stack
 Frontend: React, TailwindCSS
 
 Backend & Services: Appwrite (Authentication, Database, Storage)
