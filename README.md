@@ -1,5 +1,4 @@
 
-
 📝 Appwrite Blog
 
 A simple Blog Application built with React + Appwrite for authentication, database, and file storage.
@@ -19,6 +18,7 @@ Backend & Services: Appwrite (Authentication, Database, Storage)
 
 State Management: Context API / Redux (optional)
 
+
 📂 Project Setup
 
 # Clone the repository
@@ -33,6 +33,7 @@ npm install
 
 # Run the development server
 npm run dev
+
 
 📸 Screenshots
 
