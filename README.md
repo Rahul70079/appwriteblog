@@ -4,15 +4,10 @@
 A simple Blog Application built with React + Appwrite for authentication, database, and file storage.
 
 🚀Features
-
 User Authentication (Login / Signup)
-
 Create, Read, Update, Delete (CRUD) Blog Posts
-
 Image Upload with Appwrite Storage
-
 Protected Routes (only logged-in users can write/edit posts)
-
 Responsive UI with modern design
 
 
