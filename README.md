@@ -1,5 +1,4 @@
 
-
 📝 Appwrite Blog
 
 A simple Blog Application built with React + Appwrite for authentication, database, and file storage.
